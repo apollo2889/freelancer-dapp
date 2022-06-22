@@ -2,8 +2,10 @@
 This is the Solidity SmartContract + React.js code for the Freelancer DAPP 😙
 
 ## How to work 👷
-- Anybody can create the **Task** with `detail` and `amount`.
-- Anybody can apply the **Task** and start **Task** as Freelancer
+- Anybody can CREATE the **Task** with `detail` and `amount` as Creator
+- Anybody can APPLY the **Task** as Freelancer
+- Creator START the **Task**
+- Freelancer COMPLETE the **Task**
 - Once **Task** is completed, Freelancer is get paid 💰
 
 ## Getting setup ⚙️
