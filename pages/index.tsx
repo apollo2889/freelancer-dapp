@@ -206,7 +206,6 @@ const Home: NextPage = () => {
         );
 
         const tasks = await freelancerContract.getAllTasks();
-        console.log('tasks', tasks);
         setAllTasks(tasks);
       } else {
         console.log('Ethereum object not found, install Metamask.');
