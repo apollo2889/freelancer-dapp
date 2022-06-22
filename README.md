@@ -1,5 +1,5 @@
 # Freelancer DAPP
-This is the Solidity SmartContract + React.js code for the Freelancer DAPP 😙
+This is the Solidity SmartContract + Next.js code for the Freelancer DAPP 😙
 
 ## How to work 👷
 - Anybody can CREATE the **Task** with `detail` and `amount` as Creator
